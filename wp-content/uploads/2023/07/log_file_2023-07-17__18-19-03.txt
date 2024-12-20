@@ -1,0 +1,71 @@
+
+---Downloaded files---
+The import files for: Main Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/wordpress
+Data file = /Applications/MAMP/htdocs/wordpress/wp-content/uploads/2023/07/demo-content-import-file_2023-07-17__18-19-03.xml
+Widget file = /Applications/MAMP/htdocs/wordpress/wp-content/uploads/2023/07/demo-widgets-import-file_2023-07-17__18-19-03.json
+Customizer file = /Applications/MAMP/htdocs/wordpress/wp-content/uploads/2023/07/demo-customizer-import-file_2023-07-17__18-19-03.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import portfolio_category Branding
+[WARNING] Failed to import media_category Branding
+[WARNING] Failed to import portfolio_category Creative
+[WARNING] Failed to import media_category Creative
+[WARNING] Failed to import portfolio_category Design
+[WARNING] Failed to import media_category Design
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Rechercher - No Title - Imported
+Articles récents - No Title - Imported
+Commentaires récents - No Title - Imported
+Catégories - No Title - Imported
+Nuage d’étiquettes - No Title - Imported
+
+Shop Sidebar : 
+
+Product Search - No Title - Imported
+Filter Products by Price - Filter by price - Imported
+Cart - Cart - Imported
+Products by Rating list - Top rated products - Imported
+
+Footer Sidebar 1 : 
+
+Texte - No Title - Imported
+
+Footer Sidebar 2 : 
+
+Texte - Let&#039;s Talk - Imported
+
+Footer Sidebar 3 : 
+
+Texte - Find Us - Imported
+
+Footer Sidebar 4 : 
+
+Texte - Follow Us - Imported
+
+Sliding Bar Sidebar : 
+
+HTML personnalisé - Start Now - Imported
+Texte - About Us - Imported
+Articles récents - No Title - Imported
+Menu de navigation - Quick Menu - Imported
+Nuage d’étiquettes - Tag Cloud - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

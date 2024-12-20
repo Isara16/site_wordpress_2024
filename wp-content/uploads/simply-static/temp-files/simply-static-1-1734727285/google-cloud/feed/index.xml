@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Commentaires sur : Google Cloud	</title>
+	<atom:link href="https://Isara16.github.io//google-cloud/feed/" rel="self" type="application/rss+xml" />
+	<link>https://Isara16.github.io//google-cloud/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=google-cloud</link>
+	<description>Graphic Design &#38; Project Management</description>
+	<lastBuildDate>Wed, 22 May 2019 13:55:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>
+		Par : John Doe		</title>
+		<link>https://Isara16.github.io//google-cloud/#comment-25</link>
+
+		<dc:creator><![CDATA[John Doe]]></dc:creator>
+		<pubDate>Wed, 22 May 2019 13:55:17 +0000</pubDate>
+		<guid isPermaLink="false">http://bifrost.local/?p=6683#comment-25</guid>
+
+					<description><![CDATA[En réponse à &lt;a href=&quot;https://Isara16.github.io//google-cloud/#comment-23&quot;&gt;Chris Johnson&lt;/a&gt;.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam blandit sem vel neque iaculis, vitae tempus lacus pellentesque. Nullam sed est vel massa laoreet varius. Sed euismod arcu ante, ac lacinia nunc venenatis eget. Sed bibendum, turpis vitae dapibus venenatis, urna ex blandit felis, eu faucibus mi sapien non velit.]]></description>
+			<content:encoded><![CDATA[<p>En réponse à <a href="https://Isara16.github.io//google-cloud/#comment-23">Chris Johnson</a>.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam blandit sem vel neque iaculis, vitae tempus lacus pellentesque. Nullam sed est vel massa laoreet varius. Sed euismod arcu ante, ac lacinia nunc venenatis eget. Sed bibendum, turpis vitae dapibus venenatis, urna ex blandit felis, eu faucibus mi sapien non velit.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Par : Eddie Barkley		</title>
+		<link>https://Isara16.github.io//google-cloud/#comment-24</link>
+
+		<dc:creator><![CDATA[Eddie Barkley]]></dc:creator>
+		<pubDate>Wed, 22 May 2019 13:54:56 +0000</pubDate>
+		<guid isPermaLink="false">http://bifrost.local/?p=6683#comment-24</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam blandit sem vel neque iaculis, vitae tempus lacus pellentesque. Nullam sed est vel massa laoreet varius. Sed euismod arcu ante, ac lacinia nunc venenatis eget. Sed bibendum, turpis vitae dapibus venenatis, urna ex blandit felis, eu faucibus mi sapien non velit.]]></description>
+			<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam blandit sem vel neque iaculis, vitae tempus lacus pellentesque. Nullam sed est vel massa laoreet varius. Sed euismod arcu ante, ac lacinia nunc venenatis eget. Sed bibendum, turpis vitae dapibus venenatis, urna ex blandit felis, eu faucibus mi sapien non velit.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Par : Chris Johnson		</title>
+		<link>https://Isara16.github.io//google-cloud/#comment-23</link>
+
+		<dc:creator><![CDATA[Chris Johnson]]></dc:creator>
+		<pubDate>Wed, 22 May 2019 13:54:34 +0000</pubDate>
+		<guid isPermaLink="false">http://bifrost.local/?p=6683#comment-23</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam blandit sem vel neque iaculis, vitae tempus lacus pellentesque. Nullam sed est vel massa laoreet varius. Sed euismod arcu ante, ac lacinia nunc venenatis eget. Sed bibendum, turpis vitae dapibus venenatis, urna ex blandit felis, eu faucibus mi sapien non velit. Aenean eu tempor lectus. Nulla bibendum, ipsum maximus facilisis ultrices, arcu augue.]]></description>
+			<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam blandit sem vel neque iaculis, vitae tempus lacus pellentesque. Nullam sed est vel massa laoreet varius. Sed euismod arcu ante, ac lacinia nunc venenatis eget. Sed bibendum, turpis vitae dapibus venenatis, urna ex blandit felis, eu faucibus mi sapien non velit. Aenean eu tempor lectus. Nulla bibendum, ipsum maximus facilisis ultrices, arcu augue.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

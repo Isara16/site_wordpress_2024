@@ -1,0 +1,15 @@
+/*
+Theme Name: Bifrost Child
+Theme URI: https://neuronthemes.com/bifrost
+Description: This is a child theme of Bifrost
+Author: NeuronThemes
+Author URI: https://neuronthemes.com
+Template: bifrost
+Version: 2.0.0
+*/
+
+@font-face { font-family: billy; src: url(http://htdocs/wordpress/wp-content/themes/bifrost-child/fonts/billy-webfont.woff); font-weight: normal; }
+
+.h1 {
+font-family: "billy", billy-webfont.woff, sans-serif;
+}

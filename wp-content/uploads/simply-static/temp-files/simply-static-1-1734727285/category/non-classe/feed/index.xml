@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Non classé - Anahé I Portfolio</title>
+	<atom:link href="https://Isara16.github.io//category/non-classe/feed/" rel="self" type="application/rss+xml" />
+	<link>https://Isara16.github.io/</link>
+	<description>Graphic Design &#38; Project Management</description>
+	<lastBuildDate>Sun, 17 Nov 2024 19:23:32 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://Isara16.github.io//wp-content/uploads/2024/11/cropped-self_portrait-32x32.png</url>
+	<title>Non classé - Anahé I Portfolio</title>
+	<link>https://Isara16.github.io/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Bonjour tout le monde !</title>
+		<link>https://Isara16.github.io//bonjour-tout-le-monde/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=bonjour-tout-le-monde</link>
+					<comments>https://Isara16.github.io//bonjour-tout-le-monde/#comments</comments>
+		
+		<dc:creator><![CDATA[Isara]]></dc:creator>
+		<pubDate>Sun, 17 Nov 2024 19:23:32 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">https://Isara16.github.io//?p=1</guid>
+
+					<description><![CDATA[<p>Bienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis commencez à écrire !</p>
+<p>The post <a href="https://Isara16.github.io//bonjour-tout-le-monde/">Bonjour tout le monde !</a> first appeared on <a href="https://Isara16.github.io/">Anahé I Portfolio</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Bienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis commencez à écrire !</p><p>The post <a href="https://Isara16.github.io//bonjour-tout-le-monde/">Bonjour tout le monde !</a> first appeared on <a href="https://Isara16.github.io/">Anahé I Portfolio</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://Isara16.github.io//bonjour-tout-le-monde/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

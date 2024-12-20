@@ -1,0 +1,192 @@
+# Translation of Plugins - Spotlight Social Feeds [Block, Shortcode, and Widget] - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Spotlight Social Feeds [Block, Shortcode, and Widget] - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-08-30 22:06:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Spotlight Social Feeds [Block, Shortcode, and Widget] - Stable (latest release)\n"
+
+#: src/core/RestApi/EndPoints/Promotion/GetPostNiceUrlEndPoint.php:16
+msgid "Missing post ID in request"
+msgstr "ID de publication manquant dans la requête"
+
+#: src/core/RestApi/EndPoints/Embed/CreatePostEndPoint.php:19
+msgid "Invalid feed ID"
+msgstr "ID de flux invalide"
+
+#: modules/UpdateCronModule.php:53
+msgid "Please go to the %s page and set a new interval for how often Spotlight checks for new posts."
+msgstr "Veuillez accéder à la page %s et définir un nouvel intervalle pour la fréquence à laquelle Spotlight recherche de nouvelles publications."
+
+#: modules/UpdateCronModule.php:47
+msgid "Your Instagram feeds cannot be auto-updated due to a missing cron schedule."
+msgstr "Votre flux Instagram ne peut pas être mis à jour automatiquement à cause d’une planification cron manquante."
+
+#: modules/UpdateCronModule.php:44
+msgid "Instagram feeds » Settings » Configuration"
+msgstr "Configuration des Réglages de flux Instagram"
+
+#: src/core/RestApi/EndPoints/Accounts/GetAccessTokenEndPoint.php:48
+msgid "You must be logged in to view this access token"
+msgstr "Vous devez être connecté(e) pour voir ce jeton d’accès"
+
+#: src/core/Wp/NoticesManager.php:68
+msgid "Invalid nonce"
+msgstr "Nonce invalide"
+
+#: src/core/RestApi/EndPoints/Accounts/GetAccessTokenEndPoint.php:63
+msgid "The Instagram account does not exist"
+msgstr "Le compte Instagram n’existe pas"
+
+#: src/core/RestApi/EndPoints/Accounts/GetAccessTokenEndPoint.php:55
+msgid "The password you entered is incorrect"
+msgstr "Le mot de passe saisi est incorrect"
+
+#: modules/SecurityModule.php:68
+msgctxt "%1$s is the name of the plugin, %2$s is \"openssl\""
+msgid "%1$s: We strongly recommend that you enable the %2$s PHP extension to allow Spotlight to encrypt your account access tokens."
+msgstr "%1$s : nous vous recommandons fortement d’activer l’extension PHP %2$s pour autoriser Spotlight à crypter les jetons d’accès à votre compte."
+
+#: modules/SecurityModule.php:55
+msgctxt "%1$s is the name of the plugin"
+msgid "%1$s: We strongly recommend that you switch your site to HTTPS to prevent your access tokens from being compromised."
+msgstr "%1$s : nous vous recommandons fortement de passer votre site en HTTPS pour éviter que votre jeton d’accès soit compromis."
+
+#: includes/init.php:652
+msgid "To resolve the conflict, disable either Spotlight or the conflicting plugin. Alternatively, you can choose to ignore the conflict(s), but only do so if you know what you're doing."
+msgstr "Pour résoudre le conflit, désactivez Spotlight ou l’extension en conflit. Ou bien, vous pouvez choisir d’ignorer le(s) conflit(s), mais ne le faites que si vous savez ce que vous faites."
+
+#: includes/init.php:644
+msgid "Spotlight has suspended itself to prevent your site from crashing until the conflict is resolved."
+msgstr "Spotlight s’est suspendu pour empêcher votre site de planter jusqu’à ce que le conflit soit résolu."
+
+#: includes/init.php:632
+msgid "Both plugins use the Guzzle HTTP library. This can cause fatal errors if the plugins use different versions of the library."
+msgstr "Les deux extensions utilisent la bibliothèque HTTP Guzzle. Cela peut provoquer des erreurs fatales si les extensions utilisent des versions différentes de la bibliothèque."
+
+#: includes/init.php:660
+msgid "Contact Spotlight support"
+msgstr "Contacter le support de Spotlight"
+
+#: modules/AdminModule.php:54 modules/AdminModule.php:55
+msgid "Docs & FAQs"
+msgstr "Documentation & FAQs"
+
+#: modules/AdminModule.php:46 modules/AdminModule.php:47
+msgid "Feeds"
+msgstr "Flux"
+
+#: plugin.php:156
+msgctxt "%s is the name of the plugin"
+msgid "%s has encountered an error."
+msgstr "%s a rencontré une erreur."
+
+#: includes/init.php:666
+msgid "Ignore conflicts"
+msgstr "Ignorer les conflits"
+
+#: includes/init.php:613
+msgctxt "%s is the name of the plugin"
+msgid "%s has detected an incompatibility with some of your plugins."
+msgstr "%s a détecté une incompatibilité avec certaines de vos extensions."
+
+#: includes/init.php:343
+msgctxt "%1$s is the name of the plugin, %2$s is the name of the extension"
+msgid "%1$s requires the %2$s PHP extension. Kindly install and enable this extension or contact your hosting provider for assistance."
+msgstr "%1$s nécessite l’extension PHP %2$s. Veuillez installer et activer cette extension ou contacter votre hébergeur pour obtenir de l’aide."
+
+#: plugin.php:166
+msgid "Error details"
+msgstr "Détails de l’erreur"
+
+#: plugin.php:163
+msgid "Click here to deactivate the plugin"
+msgstr "Cliquez ici pour désactiver l’extension"
+
+#: includes/init.php:499
+msgid "Your version of the FREE plugin needs to be updated to at least version 0.4."
+msgstr "Votre version de l’extension gratuite nécessite d’être mise à jour au moins en version 0.4."
+
+#: includes/init.php:427
+msgctxt "Put {{ and }} around the text that activates the plugin"
+msgid "Done! Click {{here}} to activate it!"
+msgstr "C’est fait ! Cliquez  {{ici}} pour l’activer !"
+
+#: includes/init.php:412
+msgctxt "Put {{ and }} around the text that links to the plugin install page"
+msgid "Something went wrong! We couldn't install the plugin for you. Kindly download and install the free version from {{this page}}."
+msgstr "Quelque chose s’est mal passé ! Nous n’avons pas pu installer l’extension pour vous. Veuillez télécharger et installer la version gratuite à partir de {{cette page}}."
+
+#: includes/init.php:407
+msgid "Installing ..."
+msgstr "Installation…"
+
+#: includes/init.php:393
+msgctxt "Put {{ and }} around the text that should link to the free version download page"
+msgid "You need to install and activate the free version in order to use the PRO version. {{Click here}} to install it."
+msgstr "Vous devez installer et activer la version gratuite pour pouvoir utiliser la version Pro. {{Cliquez ici}} pour l’installer."
+
+#: includes/init.php:381
+msgctxt "Put {{ and }} around the text that should activate the plugin"
+msgid "The free version of the plugin needs to remain activated in order to use the PRO version. {{Click here}} to activate it."
+msgstr "La version gratuite de l’extension doit rester activée pour pouvoir utiliser la version Pro. {{Cliquez ici}} pour l’activer."
+
+#: src/core/PostTypes/FeedPostType.php:225
+msgid "Elementor widget"
+msgstr "Widget Elementor"
+
+#: src/core/PostTypes/FeedPostType.php:139
+msgid "WordPress widget"
+msgstr "Widget WordPress"
+
+#: src/core/RestApi/EndPoints/Promotion/SearchPostsEndpoint.php:27
+msgid "Missing post type in request"
+msgstr "Il manque le type de publication dans la requête"
+
+#: freemius.php:38
+msgid "Help"
+msgstr "Aide"
+
+#: freemius.php:37
+msgid "License"
+msgstr "Licence"
+
+#: includes/init.php:303
+msgctxt "%1$s is the name of the plugin, %2$s is the required WP version"
+msgid "%1$s requires WordPress version %2$s or later"
+msgstr "%1$s nécessite WordPress version %2$s ou ultérieure"
+
+#: includes/init.php:282
+msgctxt "%1$s is the name of the plugin, %2$s is the required PHP version"
+msgid "%1$s requires PHP version %2$s or later"
+msgstr "%1$s nécessite PHP version %2$s ou ultérieure"
+
+#. Author URI of the plugin
+#: plugin.php
+msgid "https://rebelcode.com"
+msgstr "https://rebelcode.com"
+
+#. Author of the plugin
+#: plugin.php
+msgid "RebelCode"
+msgstr "RebelCode"
+
+#. Plugin URI of the plugin
+#: plugin.php
+msgid "https://spotlightwp.com"
+msgstr "https://spotlightwp.com"
+
+#. Plugin Name of the plugin
+#: plugin.php
+msgid "Spotlight - Social Media Feeds"
+msgstr "Spotlight - Social Media Feeds"
+
+#. Description of the plugin
+#: plugin.php
+msgid "Easily embed beautiful Instagram feeds on your WordPress site."
+msgstr "Embarquez facilement de beaux flux Instagram sur votre site WordPress."

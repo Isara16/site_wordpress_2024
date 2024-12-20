@@ -1,0 +1,56 @@
+
+---Downloaded files---
+The import files for: Metro Portfolio were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8888/wordpress
+Data file = /Applications/MAMP/htdocs/wordpress/wordpress/wp-content/uploads/2024/12/demo-content-import-file_2024-12-07__21-43-54.xml
+Widget file = /Applications/MAMP/htdocs/wordpress/wordpress/wp-content/uploads/2024/12/demo-widgets-import-file_2024-12-07__21-43-54.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Main Sidebar : 
+
+Rechercher - No Title - Imported
+Articles récents - No Title - Imported
+Commentaires récents - No Title - Imported
+Catégories - No Title - Imported
+Nuage d’étiquettes - No Title - Imported
+
+shop-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_product_search - No Title - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_widget_cart - Cart - Site does not support widget
+woocommerce_top_rated_products - Top rated products - Site does not support widget
+
+Footer Sidebar 1 : 
+
+Texte - No Title - Imported
+
+Footer Sidebar 2 : 
+
+Texte - Let&#039;s Talk - Imported
+
+Footer Sidebar 3 : 
+
+Texte - Find Us - Imported
+
+Footer Sidebar 4 : 
+
+Texte - Follow Us - Imported
+
+Sliding Bar Sidebar : 
+
+HTML personnalisé - Start Now - Imported
+Texte - About Us - Imported
+Articles récents - No Title - Imported
+Menu de navigation - Quick Menu - Imported
+Nuage d’étiquettes - Tag Cloud - Imported
+
+
+
+---ocdi/after_import---
+

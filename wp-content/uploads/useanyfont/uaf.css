@@ -1,0 +1,16 @@
+				@font-face {
+					font-family: 'billy';
+					src: url('/wordpress/wp-content/uploads/useanyfont/6142billy.woff2') format('woff2'),
+						url('/wordpress/wp-content/uploads/useanyfont/6142billy.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.billy{font-family: 'billy' !important;}
+
+						.menu-menu-principal-container li a, .menu-menu-principal-container li span, #menu-menu-principal li a, #menu-menu-principal li span{
+					font-family: 'billy' !important;
+				}
+						h1, .widget-title, .site-title, .site-description, .menu-menu-principal-container li a, .menu-menu-principal-container li span, #menu-menu-principal li a, #menu-menu-principal li span{
+					font-family: 'billy' !important;
+				}
+		
